@@ -15,7 +15,7 @@ In order to use it, you should import the js file in your HTML page.
 ``` js
 
 Common.AjaxPost(url, JSON.stringify(data), 'json', successCallback);  # POST AJAX CALL
-Common.AjaxGet(url, JSON.stringify(data), 'json', successCallback);  # GET AJAX CALL
+Common.AjaxGet(url, null, 'json', successCallback);  # GET AJAX CALL
 
 ```
 
