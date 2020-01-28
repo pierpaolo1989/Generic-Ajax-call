@@ -1,6 +1,6 @@
 # Generic-Ajax-call
 
-List of generic functions to manage ajax functionality.
+List of generic functions to manage ajax functionalities.
 
 ## Installation
 
